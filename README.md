@@ -10,7 +10,7 @@
     - OddOccurrencesInArray: [Java](./Java/lesson%2002/OddOccurrencesInArray.java)
     - CyclicRotation: [Java](./Java/lesson%2002/CyclicRotation.java)
 - Lesson 3:
-    - FrogJmp: [Java](./java/lesson%2003/FrogJmp.java)
+    - FrogJmp: [Java](./Java/lesson%2003/FrogJmp.java)
     - PermMissingElem: [Java](./Java/lesson%2003/PermMissingElem.java)
     - TapeEquilibrium: [Java](./Java/lesson%2003/TapeEquilibrium.java)
 - Lesson 4:
