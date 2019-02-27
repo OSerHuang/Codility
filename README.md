@@ -16,3 +16,4 @@
 - Lesson 4:
     - PermCheck: [Java](./Java/lesson%2004/PermCheck.java)
     - FrogRiverOne: [Java](./Java/lesson%2004/FrogRiverOne.java)
+    - MissingInteger: [Java](./Java/lesson%2004/MissingInteger.java)
