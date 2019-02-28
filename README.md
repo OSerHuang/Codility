@@ -18,3 +18,5 @@
     - FrogRiverOne: [Java](./Java/lesson%2004/FrogRiverOne.java)
     - MissingInteger: [Java](./Java/lesson%2004/MissingInteger.java)
     - MaxCounters: [Java](./Java/lesson%2004/MaxCounters.java)
+- Lesson 5:
+    - PassingCars: [Java](./Java/lesson%2005/PassingCars.java)
