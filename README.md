@@ -20,3 +20,4 @@
     - MaxCounters: [Java](./Java/lesson%2004/MaxCounters.java)
 - Lesson 5:
     - PassingCars: [Java](./Java/lesson%2005/PassingCars.java)
+    - GenomicRangeQuery: [Java](./Java/lesson%2005/GenomicRangeQuery.java)
