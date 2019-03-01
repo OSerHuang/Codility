@@ -21,3 +21,4 @@
 - Lesson 5:
     - PassingCars: [Java](./Java/lesson%2005/PassingCars.java)
     - GenomicRangeQuery: [Java](./Java/lesson%2005/GenomicRangeQuery.java)
+    - MinAvgTwoSlice: [Java](./Java/lesson%2005/MinAvgTwoSlice.java)
