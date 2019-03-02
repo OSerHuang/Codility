@@ -25,3 +25,4 @@
     - CountDiv: [Java](./Java/lesson%2005/CountDiv.java)
 - Lesson 6:
     - Distinct: [Java](./Java/lesson%2006/Distinct.java)
+    - MaxProductOfThree: [Java](./Java/lesson%2006/MaxProductOfThree.java)
