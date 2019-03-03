@@ -27,3 +27,4 @@
     - Distinct: [Java](./Java/lesson%2006/Distinct.java)
     - MaxProductOfThree: [Java](./Java/lesson%2006/MaxProductOfThree.java)
     - Triangle: [Java](./Java/lesson%2006/Triangle.java)
+    - NumberOfDiscIntersections: [Java](./Java/lesson%2006/NumberOfDiscIntersections.java)
