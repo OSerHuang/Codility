@@ -28,3 +28,5 @@
     - MaxProductOfThree: [Java](./Java/lesson%2006/MaxProductOfThree.java)
     - Triangle: [Java](./Java/lesson%2006/Triangle.java)
     - NumberOfDiscIntersections: [Java](./Java/lesson%2006/NumberOfDiscIntersections.java)
+- Lesson 7:
+    - Brackets: [Java](./Java/lesson%2007/Brackets.java)
