@@ -30,3 +30,4 @@
     - NumberOfDiscIntersections: [Java](./Java/lesson%2006/NumberOfDiscIntersections.java)
 - Lesson 7:
     - Brackets: [Java](./Java/lesson%2007/Brackets.java)
+    - Fish: [Java](./Java/lesson%2007/Fish.java)
