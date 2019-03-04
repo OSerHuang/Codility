@@ -32,3 +32,4 @@
     - Brackets: [Java](./Java/lesson%2007/Brackets.java)
     - Fish: [Java](./Java/lesson%2007/Fish.java)
     - Nesting: [Java](./Java/lesson%2007/Nesting.java)
+    - StoneWall: [Java](./Java/lesson%2007/StoneWall.java)
