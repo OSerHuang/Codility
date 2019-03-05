@@ -33,3 +33,5 @@
     - Fish: [Java](./Java/lesson%2007/Fish.java)
     - Nesting: [Java](./Java/lesson%2007/Nesting.java)
     - StoneWall: [Java](./Java/lesson%2007/StoneWall.java)
+- Lesson 8:
+    - EquiLeader: [Java](./Java/lesson%2008/EquiLeader.java)
