@@ -35,3 +35,4 @@
     - StoneWall: [Java](./Java/lesson%2007/StoneWall.java)
 - Lesson 8:
     - EquiLeader: [Java](./Java/lesson%2008/EquiLeader.java)
+    - Dominator: [Java](./Java/lesson%2008/Dominator.java)
