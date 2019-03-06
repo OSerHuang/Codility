@@ -38,3 +38,4 @@
     - Dominator: [Java](./Java/lesson%2008/Dominator.java)
 - Lesson 9:
     - MaxSliceSum: [Java](./Java/lesson%2009/MaxSliceSum.java)
+    - MaxProfit: [Java](./Java/lesson%2009/MaxProfit.java)
