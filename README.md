@@ -36,3 +36,5 @@
 - Lesson 8:
     - EquiLeader: [Java](./Java/lesson%2008/EquiLeader.java)
     - Dominator: [Java](./Java/lesson%2008/Dominator.java)
+- Lesson 9:
+    - MaxSliceSum: [Java](./Java/lesson%2009/MaxSliceSum.java)
