@@ -40,3 +40,5 @@
     - MaxSliceSum: [Java](./Java/lesson%2009/MaxSliceSum.java)
     - MaxProfit: [Java](./Java/lesson%2009/MaxProfit.java)
     - MaxDoubleSliceSum: [Java](./Java/lesson%2009/MaxDoubleSliceSum.java)
+- Lesson 10:
+    - CountFactors: [Java](./Java/lesson%2010/CountFactors.java)
