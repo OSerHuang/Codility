@@ -42,3 +42,4 @@
     - MaxDoubleSliceSum: [Java](./Java/lesson%2009/MaxDoubleSliceSum.java)
 - Lesson 10:
     - CountFactors: [Java](./Java/lesson%2010/CountFactors.java)
+    - MinPerimeterRectangle: [Java](./Java/lesson%2010/MinPerimeterRectangle.java)
