@@ -45,3 +45,5 @@
     - MinPerimeterRectangle: [Java](./Java/lesson%2010/MinPerimeterRectangle.java)
     - Peaks: [Java](./Java/lesson%2010/Peaks.java)
     - Flags: [Java](./Java/lesson%2010/Flags.java)
+- Lesson 11:
+    - CountSemiprimes: [Java](./Java/lesson%2011/CountSemiprimes.java)
