@@ -47,3 +47,5 @@
     - Flags: [Java](./Java/lesson%2010/Flags.java)
 - Lesson 11:
     - CountSemiprimes: [Java](./Java/lesson%2011/CountSemiprimes.java)
+- Lesson 12:
+    - ChocolatesByNumbers: [Python](./Python/lesson%2012/ChocolatesByNumbers.py)
