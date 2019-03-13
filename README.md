@@ -49,3 +49,4 @@
     - CountSemiprimes: [Java](./Java/lesson%2011/CountSemiprimes.java)
 - Lesson 12:
     - ChocolatesByNumbers: [Java](./Java/lesson%2012/ChocolatesByNumbers.java), [Python](./Python/lesson%2012/ChocolatesByNumbers.py)
+    - CommonPrimeDivisors: [Python](./Python/lesson%2012/CommonPrimeDivisors.py)
