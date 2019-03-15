@@ -52,3 +52,4 @@
     - CommonPrimeDivisors: [Python](./Python/lesson%2012/CommonPrimeDivisors.py)
 - Lesson 13:
     - Ladder: [Python](./Python/lesson%2013/Ladder.py)
+    - FibFrog: [Python](./Python/lesson%2013/FibFrog.py)
