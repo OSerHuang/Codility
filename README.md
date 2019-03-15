@@ -50,3 +50,5 @@
 - Lesson 12:
     - ChocolatesByNumbers: [Java](./Java/lesson%2012/ChocolatesByNumbers.java), [Python](./Python/lesson%2012/ChocolatesByNumbers.py)
     - CommonPrimeDivisors: [Python](./Python/lesson%2012/CommonPrimeDivisors.py)
+- Lesson 13:
+    - Ladder: [Python](./Python/lesson%2013/Ladder.py)
