@@ -53,3 +53,5 @@
 - Lesson 13:
     - Ladder: [Python](./Python/lesson%2013/Ladder.py)
     - FibFrog: [Python](./Python/lesson%2013/FibFrog.py)
+- Lesson 14:
+    - MinMaxDivision: [Java](./Java/lesson%2014/MinMaxDivision.java)
