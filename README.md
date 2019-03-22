@@ -55,3 +55,5 @@
     - FibFrog: [Python](./Python/lesson%2013/FibFrog.py)
 - Lesson 14:
     - MinMaxDivision: [Java](./Java/lesson%2014/MinMaxDivision.java)
+- Lesson 15:
+    - CountDistinctSlices: [Java](./Java/lesson%2015/CountDistinctSlices.java)
