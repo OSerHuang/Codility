@@ -58,3 +58,4 @@
 - Lesson 15:
     - CountDistinctSlices: [Java](./Java/lesson%2015/CountDistinctSlices.java), [Go](./Go/lesson%2015/CountDistinctSlices.go)
     - AbsDistinct: [Java](./Java/lesson%2015/AbsDistinct.java), [Go](./Go/lesson%2015/AbsDistinct.go)
+    - CountTriangles: [Java](./Java/lesson%2015/CountTriangles.java)
