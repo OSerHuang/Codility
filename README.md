@@ -60,3 +60,5 @@
     - AbsDistinct: [Java](./Java/lesson%2015/AbsDistinct.java), [Go](./Go/lesson%2015/AbsDistinct.go)
     - CountTriangles: [Java](./Java/lesson%2015/CountTriangles.java)
     - MinAbsSumOfTwo: [Java](./Java/lesson%2015/MinAbsSumOfTwo.java)
+- Lesson 16:
+    - TieRopes: [Java](./Java/lesson%2016/TieRopes.java)
