@@ -62,3 +62,4 @@
     - MinAbsSumOfTwo: [Java](./Java/lesson%2015/MinAbsSumOfTwo.java)
 - Lesson 16:
     - TieRopes: [Java](./Java/lesson%2016/TieRopes.java)
+    - MaxNonoverlappingSegments: [Java](./Java/lesson%2016/MaxNonoverlappingSegments.java)
