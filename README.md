@@ -63,3 +63,5 @@
 - Lesson 16:
     - TieRopes: [Java](./Java/lesson%2016/TieRopes.java)
     - MaxNonoverlappingSegments: [Java](./Java/lesson%2016/MaxNonoverlappingSegments.java)
+- Lesson 17:
+    - NumberSolitaire: [Java](./Java/lesson%2017/NumberSolitaire.java)
