@@ -70,3 +70,5 @@
     - LongestPassword: [Java](./Java/lesson%2090/LongestPassword.java)
     - FloodDepth: [Java](./Java/lesson%2090/FloodDepth.java)
     - SlalomSkiing: [Python](./Python/lesson%2090/SlalomSkiing.py)
+- Lesson 91:
+    - RectangleBuilderGreaterArea: [Python](./Python/lesson%2091/RectangleBuilderGreaterArea.py)
