@@ -4,9 +4,11 @@
 def solution(A, X):
     # write your code in Python 3.6
     res = 0
+    
     count = {}
     for l in A:
         count[l] = count.get(l, 0) + 1
+        
     usable = []
     for l in count:
         if count[l] >= 4:
@@ -16,6 +18,7 @@ def solution(A, X):
         elif count[l] >= 2:
             usable.append(l)
     usable.sort()
+    
     i, j = 0, len(usable) - 1
     while i < j:
         if usable[i] * usable[j] < X:
