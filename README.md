@@ -76,3 +76,4 @@
     - SocksLaundering: [Python](./Python/lesson%2092/SocksLaundering.py)
 - Lesson 99:
     - TreeHeight: [Python](./Python/lesson%2099/TreeHeight.py)
+    - StrSymmetryPoint: [Python](./Python/lesson%2099/StrSymmetryPoint.py)
