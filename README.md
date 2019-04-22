@@ -72,3 +72,5 @@
     - SlalomSkiing: [Python](./Python/lesson%2090/SlalomSkiing.py)
 - Lesson 91:
     - RectangleBuilderGreaterArea: [Python](./Python/lesson%2091/RectangleBuilderGreaterArea.py)
+- Lesson 92:
+    - SocksLaundering: [Python](./Python/lesson%2092/SocksLaundering.py)
