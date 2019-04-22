@@ -74,3 +74,5 @@
     - RectangleBuilderGreaterArea: [Python](./Python/lesson%2091/RectangleBuilderGreaterArea.py)
 - Lesson 92:
     - SocksLaundering: [Python](./Python/lesson%2092/SocksLaundering.py)
+- Lesson 99:
+    - TreeHeight: [Python](./Python/lesson%2099/TreeHeight.py)
