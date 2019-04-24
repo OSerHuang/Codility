@@ -80,3 +80,4 @@
     - ArrayInversionCount: [Python](./Python/lesson%2099/ArrayInversionCount.py)
 - Challenges:
     - Yttrium 2019 (DifferentCharacters): [Python](./Python/challenges/DifferentCharacters.py)
+    - Zirconium 2019 (DreamTeam): [Python](./Python/challenges/DreamTeam.py)
