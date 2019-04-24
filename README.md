@@ -78,3 +78,5 @@
     - TreeHeight: [Python](./Python/lesson%2099/TreeHeight.py)
     - StrSymmetryPoint: [Python](./Python/lesson%2099/StrSymmetryPoint.py)
     - ArrayInversionCount: [Python](./Python/lesson%2099/ArrayInversionCount.py)
+- Challenges:
+    - Yttrium 2019 (DifferentCharacters): [Python](./Python/challenges/DifferentCharacters.py)
