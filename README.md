@@ -5,7 +5,7 @@
 ## Codility Lessons
 
 - Lesson 1：
-    - BinaryGap: [Java](./Java/lesson%2001/BinaryGap.java), [Go](./Go/lesson%2001/BinaryGap.go)
+    - BinaryGap: [Java](./Java/lesson%2001/BinaryGap.java), [Python](./Python/lesson%2001/BinaryGap.py), [Go](./Go/lesson%2001/BinaryGap.go)
 - Lesson 2:
     - OddOccurrencesInArray: [Java](./Java/lesson%2002/OddOccurrencesInArray.java)
     - CyclicRotation: [Java](./Java/lesson%2002/CyclicRotation.java)
