@@ -7,7 +7,7 @@
 - Lesson 1：
     - BinaryGap: [Java](./Java/lesson%2001/BinaryGap.java), [Python](./Python/lesson%2001/BinaryGap.py), [JavaScript](./JavaScript/lesson%2001/BinaryGap.js), [Go](./Go/lesson%2001/BinaryGap.go)
 - Lesson 2:
-    - OddOccurrencesInArray: [Java](./Java/lesson%2002/OddOccurrencesInArray.java)
+    - OddOccurrencesInArray: [Java](./Java/lesson%2002/OddOccurrencesInArray.java), [JavaScript](./JavaScript/lesson%2002/OddOccurrencesInArray.js)
     - CyclicRotation: [Java](./Java/lesson%2002/CyclicRotation.java)
 - Lesson 3:
     - FrogJmp: [Java](./Java/lesson%2003/FrogJmp.java)
