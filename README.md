@@ -82,3 +82,4 @@
     - Yttrium 2019 (DifferentCharacters): [Python](./Python/challenges/DifferentCharacters.py)
     - Zirconium 2019 (DreamTeam): [Python](./Python/challenges/DreamTeam.py)
     - Niobium 2019 (FlippingMatrix): [Python](./Python/challenges/FlippingMatrix.py)
+    - Molybdenum 2019 (LeaderSliceInc): [Python](./Python/challenges/LeaderSliceInc.py)
